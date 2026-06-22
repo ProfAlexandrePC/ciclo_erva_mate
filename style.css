@@ -3,6 +3,7 @@ body{
 }
 main{
     background-color: blueviolet;
+    padding: auto;
 }
 h1{
     background-color: black;
