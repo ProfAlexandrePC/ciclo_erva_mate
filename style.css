@@ -1,6 +1,9 @@
 header{
     background-color: white;
     color: rgb(236, 84, 84);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 main{
