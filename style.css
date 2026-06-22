@@ -1,24 +1,12 @@
-body{
-    background-color: red;
-}
 header{
     background-color: white;
-    color: white;
+    color: rgb(236, 84, 84);
 }
-h1{
-    background-color: black;
-    color: white;
-}   
+
 main{
     background-color: blueviolet;
     color: white;
     text-align: center;
-}
-p{
-    background-color: blue;
-    color: white;
-}
-h2{
-    background-color: blanchedalmond;
-    color: white;
+    max-width: 800px;
+    margin: 0 auto;
 }
