@@ -3,11 +3,11 @@ body{
 }
 header{
     background-color: white;
-    color: darkgoldenrod;
+    color: white;
 }
 main{
     background-color: blueviolet;
-    color: azure;
+    color: white;
     text-align: center;
 }
 h1{
@@ -17,9 +17,10 @@ h1{
 }
 p{
     background-color: blue;
-    color: aquamarine;
+    color: white;
     padding: 10px;
 }
 h2{
     background-color: blanchedalmond;
+    color: white;
 }
