@@ -1,9 +1,9 @@
+body{
+    background-color: red;
+}
 header{
     background-color: white;
     color: darkgoldenrod;
-}
-body{
-    background-color: red;
 }
 main{
     background-color: blueviolet;
@@ -20,4 +20,7 @@ p{
     background-color: blue;
     color: aquamarine;
     padding: 10px;
+}
+h2{
+    background-color: blanchedalmond;
 }
